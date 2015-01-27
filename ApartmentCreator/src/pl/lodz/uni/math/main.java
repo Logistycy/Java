@@ -24,6 +24,8 @@ public class Main {
 		ac.showAppartments("One");
 
 		ac2.showAppartments("Two");
+		
+		System.out.println(ac.equals(ac2));
 
 	}
 

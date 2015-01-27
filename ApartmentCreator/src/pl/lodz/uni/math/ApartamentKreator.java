@@ -7,6 +7,43 @@ import org.apache.logging.log4j.Logger;
 
 public class ApartamentKreator extends Apartament {
 
+	@Override
+	public int hashCode() {
+		final int prime = 31;
+		int result = 1;
+		result = prime * result + ((miesz == null) ? 0 : miesz.hashCode());
+		result = prime * result + ((piet == null) ? 0 : piet.hashCode());
+		result = prime * result + ((wind == null) ? 0 : wind.hashCode());
+		return result;
+	}
+
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		ApartamentKreator other = (ApartamentKreator) obj;
+		if (miesz == null) {
+			if (other.miesz != null)
+				return false;
+		} else if (!miesz.equals(other.miesz))
+			return false;
+		if (piet == null) {
+			if (other.piet != null)
+				return false;
+		} else if (!piet.equals(other.piet))
+			return false;
+		if (wind == null) {
+			if (other.wind != null)
+				return false;
+		} else if (!wind.equals(other.wind))
+			return false;
+		return true;
+	}
+
 	private static final Logger logger = LogManager
 			.getLogger(ApartamentKreator.class);
 	Pietro piet = new Pietro();
