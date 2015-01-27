@@ -1,18 +1,18 @@
 package pl.lodz.uni.math;
 
-public class main {
+public class Main {
 
 	public static void main(String[] args) {
 
-		AppartmentCreator ac = new AppartmentCreator(2, 1, 11, "One");
+		ApartamentKreator ac = new ApartamentKreator("One");
 
-		AppartmentCreator ac2 = new AppartmentCreator(5, 3, 9, "Two");
+		ApartamentKreator ac2 = new ApartamentKreator("Two");
 
-		ac.addApartment(2, 1, 11, "One");
+		ac.addApartment(2, 1, 11);
 
 		ac.showAppartments("One");
 
-		ac2.addApartment(5, 3, 9, "Two");
+		ac2.addApartment(5, 3, 9);
 
 		ac2.showAppartments("Two");
 

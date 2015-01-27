@@ -1,0 +1,24 @@
+DEBUG | 2015-01-27 20:04:52 | [main] math.ApartamentKreator (ApartamentKreator.java:44) - Apartament: One
+DEBUG | 2015-01-27 20:04:52 | [main] math.ApartamentKreator (ApartamentKreator.java:45) - pietra: 2
+DEBUG | 2015-01-27 20:04:52 | [main] math.ApartamentKreator (ApartamentKreator.java:46) - windy: 1
+DEBUG | 2015-01-27 20:04:52 | [main] math.ApartamentKreator (ApartamentKreator.java:47) - mieszkania: 11
+DEBUG | 2015-01-27 20:04:52 | [main] math.ApartamentKreator (ApartamentKreator.java:48) - nazwa: One
+DEBUG | 2015-01-27 20:04:52 | [main] math.ApartamentKreator (ApartamentKreator.java:49) -  
+DEBUG | 2015-01-27 20:04:52 | [main] math.ApartamentKreator (ApartamentKreator.java:44) - Apartament: Two
+DEBUG | 2015-01-27 20:04:52 | [main] math.ApartamentKreator (ApartamentKreator.java:45) - pietra: 5
+DEBUG | 2015-01-27 20:04:52 | [main] math.ApartamentKreator (ApartamentKreator.java:46) - windy: 3
+DEBUG | 2015-01-27 20:04:52 | [main] math.ApartamentKreator (ApartamentKreator.java:47) - mieszkania: 9
+DEBUG | 2015-01-27 20:04:52 | [main] math.ApartamentKreator (ApartamentKreator.java:48) - nazwa: Two
+DEBUG | 2015-01-27 20:04:52 | [main] math.ApartamentKreator (ApartamentKreator.java:49) -  
+DEBUG | 2015-01-27 20:04:52 | [main] math.ApartamentKreator (ApartamentKreator.java:44) - Apartament: One
+DEBUG | 2015-01-27 20:04:52 | [main] math.ApartamentKreator (ApartamentKreator.java:45) - pietra: 5
+DEBUG | 2015-01-27 20:04:52 | [main] math.ApartamentKreator (ApartamentKreator.java:46) - windy: 3
+DEBUG | 2015-01-27 20:04:52 | [main] math.ApartamentKreator (ApartamentKreator.java:47) - mieszkania: 9
+DEBUG | 2015-01-27 20:04:52 | [main] math.ApartamentKreator (ApartamentKreator.java:48) - nazwa: One
+DEBUG | 2015-01-27 20:04:52 | [main] math.ApartamentKreator (ApartamentKreator.java:49) -  
+DEBUG | 2015-01-27 20:04:52 | [main] math.ApartamentKreator (ApartamentKreator.java:44) - Apartament: Two
+DEBUG | 2015-01-27 20:04:52 | [main] math.ApartamentKreator (ApartamentKreator.java:45) - pietra: 2
+DEBUG | 2015-01-27 20:04:52 | [main] math.ApartamentKreator (ApartamentKreator.java:46) - windy: 1
+DEBUG | 2015-01-27 20:04:52 | [main] math.ApartamentKreator (ApartamentKreator.java:47) - mieszkania: 11
+DEBUG | 2015-01-27 20:04:52 | [main] math.ApartamentKreator (ApartamentKreator.java:48) - nazwa: Two
+DEBUG | 2015-01-27 20:04:52 | [main] math.ApartamentKreator (ApartamentKreator.java:49) -  
